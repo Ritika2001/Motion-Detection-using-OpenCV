@@ -1,0 +1,9 @@
+Heya!
+To run the code on any pf the sample vidoes run them as command line arguments
+"python motion_detector.py --video videos/walking.mp4"
+
+To use webcam just run the script normally
+"python motion_detector.py"
+
+Thanks
+Ritika 
